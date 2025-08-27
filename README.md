@@ -13,4 +13,4 @@ A sign language detector built using TensorFlow Object Detection API which detec
 3. Follow the notebooks to collect images and train the model
 
 ## Notes
-- Images and pre-trained model files are *NOT INCLUDED* to reduce repository size
+- Images and pre-trained model files are **NOT INCLUDED** to reduce repository size
