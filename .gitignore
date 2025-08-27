@@ -1,0 +1,9 @@
+# Ignore images
+workspace/images/
+# Ignore pre-trained models
+workspace/pre-trained-models/
+# Ignore training outputs
+workspace/models/my_ssd_mobnet/ckpt*
+workspace/models/my_ssd_mobnet/events*
+# MacOS files
+.DS_Store
